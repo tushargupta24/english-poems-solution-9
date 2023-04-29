@@ -1,0 +1,109 @@
+{
+    "english-poems-solution-9":[
+        {  
+        "id":1,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Poem 1 : The Road Not Taken",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-1.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Poem 2 : Wind",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-2.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":3,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Poem 3 : Rain on the Roof",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-3.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":4,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Poem 4 : The Lake Isle of Innisfree",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-4.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Poem 5 : A Legend of the Northland",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-5.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Poem 6 : No Men Are Foreign",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-6.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-6.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Poem 7 : The Duck and the Kangaroo",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-7.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-7.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Poem 8 : On Killing a Tree",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-8.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-8.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Poem 9 : The Snake Trying",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-9.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-9.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Poem 10 : A Slumber Did My Spirit Seal",
+        "download":"assets/images/courses-9/solution/english/english-9-poems-chapter-10.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-poems-chapter-10.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+    ]
+}
